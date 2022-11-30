@@ -16,7 +16,7 @@ Maximize seasonal flu vaccination rates. To do so, build a classification model 
 
 ## Data
 
-Approximately 26,500 instances of individual data and vaccine decision information.
+Approximately 26,000 instances of individual data and vaccine decision information.
 
 ## Overview of classification models and results
 
@@ -30,11 +30,12 @@ Import factors for classification that the model isolated are: opinion about vac
 
 ![fig2](./figures/fig2.png)
 
-### Opinion about Vaccine Effectiveness
+### Opinion about Vaccine Effectiveness and Flu Risk
 
-A higher percentage of individuals who thought the vaccine was very or somewhat effective got the vaccine than those who did not think it was effective.
+Individuals who had a higher oppinion of vaccine effectiveness and risks about getting the flu had a higher vaccination rate.
 
 ![fig3](./figures/fig3.png)
+![fig6](./figures/fig6.png)
 
 ### Doctor Recommendation
 
@@ -59,6 +60,6 @@ To increase vaccination rates, public health officials should:
 
 - technical notebook: student_v1.ipynb
 - figures folder
-- data set: training.csv, labels.csv
+- data set: training_set_features.csv, labels.csv, data.csv
 - README.md
 - presentation.pdf
