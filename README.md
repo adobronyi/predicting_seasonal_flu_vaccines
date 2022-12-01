@@ -34,7 +34,10 @@ Import factors for classification that the model isolated are: opinion about vac
 
 Individuals who had a higher oppinion of vaccine effectiveness and risks about getting the flu had a higher vaccination rate.
 
+Opinion of vaccine effectiveness:
 ![fig3](./figures/fig3.png)
+
+Opinion of flu risk:
 ![fig6](./figures/fig6.png)
 
 ### Doctor Recommendation
